@@ -8,4 +8,3 @@
 - [Модель предметной области](https://github.com/MaxZ07/Crystal/blob/master/DomainModel.pdf)
 - [Use Case](https://github.com/MaxZ07/Crystal/blob/master/UseCase.png)
 - [Диаграмма классов](https://github.com/MaxZ07/Crystal/blob/master/ClassDiagram.png)
-- 
