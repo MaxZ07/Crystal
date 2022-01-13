@@ -7,7 +7,7 @@
 - [Видение](https://github.com/MaxZ07/Crystal/blob/master/Vision.md)
 - [Use Case](https://github.com/MaxZ07/Crystal/blob/master/img/UseCase.png)
 - [Модель предметной области](https://github.com/MaxZ07/Crystal/blob/master/img/DomainModel.png)
-- [Спецификация прецедентов](https://github.com/MaxZ07/Crystal/blob/master/img/SpecificationOfUseCases.md)
+- [Спецификация прецедентов](https://github.com/MaxZ07/Crystal/blob/master/SpecificationOfUseCases.md)
 
 ## Дизайн
 - [UI](https://github.com/MaxZ07/Crystal/blob/master/UI.png)
