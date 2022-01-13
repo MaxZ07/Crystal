@@ -22,7 +22,7 @@
 
 # Диаграмма последовательностей
 
-![Scenario1](https://github.com/MaxZ07/Crystal/blob/master/Scenario1.png)
+![Scenario1](https://github.com/MaxZ07/Crystal/blob/master/img/Scenario1.png)
 
 # Сценарий 2
 * Пользователь запускает мобильное приложение
@@ -32,7 +32,7 @@
 
 # Диаграмма последовательностей
 
-![Scenario2](https://github.com/MaxZ07/Crystal/blob/master/Scenario1.png)
+![Scenario2](https://github.com/MaxZ07/Crystal/blob/master/img/Scenario1.png)
 
 # Сценарий 3
 * Пользователь запускает мобильное приложение
@@ -43,4 +43,4 @@
 
 # Диаграмма последовательностей
 
-![Scenario3](https://github.com/MaxZ07/Crystal/blob/master/Scenario3.png)
+![Scenario3](https://github.com/MaxZ07/Crystal/blob/master/img/Scenario3.png)
