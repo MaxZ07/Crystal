@@ -10,4 +10,4 @@
 - [Спецификация прецедентов](https://github.com/MaxZ07/Crystal/blob/master/SpecificationOfUseCases.md)
 
 ## Дизайн
-- [UI](https://github.com/MaxZ07/Crystal/blob/master/UI.png)
+- [UI](https://github.com/MaxZ07/Crystal/blob/master/img/UI.png)
