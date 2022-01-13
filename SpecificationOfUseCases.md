@@ -32,7 +32,7 @@
 
 # Диаграмма последовательностей
 
-![Scenario2](https://github.com/MaxZ07/Crystal/blob/master/img/Scenario1.png)
+![Scenario2](https://github.com/MaxZ07/Crystal/blob/master/img/Scenario2.png)
 
 # Сценарий 3
 * Пользователь запускает мобильное приложение
